@@ -1,0 +1,91 @@
+Mumbai Indians
+Player 1
+Name: Piyush Chawla
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 2
+Name: Rahul Sanghvi
+Country: India
+Ability: Batsman
+Fees: 100000
+Player 3
+Name: Ramesh Powar
+Country: India
+Ability: Batsman
+Fees: 600000
+Player 4
+Name: Rashid Patel
+Country: India
+Ability: Batsman
+Fees: 600000
+Player 5
+Name: Ravichandran Ashwin
+Country: India
+Ability: Batsman
+Fees: 600000
+Player 6
+Name: Robin Singh
+Country: India
+Ability: Batsman
+Fees: 600000
+Player 7
+Name: R. P. Singh
+Country: India
+Ability: Batsman
+Fees: 400000
+Player 8
+Name: Parthiv Patel
+Country: India
+Ability: Bowler
+Fees: 500000
+Player 9
+Name: Pragyan Ojha
+Country: India
+Ability: Bowler
+Fees: 600000
+Player 10
+Name: Pravin Amre
+Country: India
+Ability: Bowler
+Fees: 500000
+Player 11
+Name: Prithvi Shaw
+Country: India
+Ability: Bowler
+Fees: 400000
+Player 12
+Name: Shahbaz Nadeem
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+Player 13
+Name: Sourav Ganguly
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+Player 14
+Name: Dwaine Pretorius
+Country: South Africa
+Ability: All-Rounder
+Fees: 100000
+Player 15
+Name: Elton Chigumbura
+Country: Zimbabwe
+Ability: All-Rounder
+Fees: 400000
+Player 16
+Name: Faheem Ashraf
+Country: Pakistan
+Ability: All-Rounder
+Fees: 400000
+Player 17
+Name: Gareth Delany
+Country: Ireland
+Ability: All-Rounder
+Fees: 500000
+Player 18
+Name: George Dockrell
+Country: Ireland
+Ability: All-Rounder
+Fees: 200000

@@ -1,0 +1,91 @@
+Kolkata Knight Riders
+Player 1
+Name: Munaf Patel
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 2
+Name: Murali Vijay
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 3
+Name: Naman Ojha
+Country: India
+Ability: Batsman
+Fees: 100000
+Player 4
+Name: Narendra Hirwani
+Country: India
+Ability: Batsman
+Fees: 400000
+Player 5
+Name: Nayan Mongia
+Country: India
+Ability: Batsman
+Fees: 600000
+Player 6
+Name: Pankaj Singh
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 7
+Name: Paras Mhambrey
+Country: India
+Ability: Batsman
+Fees: 100000
+Player 8
+Name: Mohammed Shami
+Country: India
+Ability: Bowler
+Fees: 400000
+Player 9
+Name: Murali Kartik
+Country: India
+Ability: Bowler
+Fees: 400000
+Player 10
+Name: M. Venkataramana
+Country: India
+Ability: Bowler
+Fees: 600000
+Player 11
+Name: Nilesh Kulkarni
+Country: India
+Ability: Bowler
+Fees: 600000
+Player 12
+Name: Robin Uthappa
+Country: India
+Ability: Wicket Keeper
+Fees: 400000
+Player 13
+Name: Sanju Samson
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+Player 14
+Name: Corey Anderson
+Country: New Zealand
+Ability: All-Rounder
+Fees: 600000
+Player 15
+Name: Danushka Gunathilaka
+Country: Sri Lanka
+Ability: All-Rounder
+Fees: 300000
+Player 16
+Name: D'Arcy Short
+Country: Australia
+Ability: All-Rounder
+Fees: 700000
+Player 17
+Name: Dasun Shanaka
+Country: Sri Lanka
+Ability: All-Rounder
+Fees: 400000
+Player 18
+Name: David Willey
+Country: England
+Ability: All-Rounder
+Fees: 600000

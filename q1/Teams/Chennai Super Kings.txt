@@ -1,0 +1,91 @@
+Chennai Super Kings
+Player 1
+Name: Aakash Chopra
+Country: India
+Ability: Batsman
+Fees: 100000
+Player 2
+Name: Ajay Ratra
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 3
+Name: Ajinkya Rahane
+Country: India
+Ability: Batsman
+Fees: 400000
+Player 4
+Name: Anil Kumble
+Country: India
+Ability: Batsman
+Fees: 400000
+Player 5
+Name: Bhuvneshwar Kumar
+Country: India
+Ability: Batsman
+Fees: 600000
+Player 6
+Name: Cheteshwar Pujara
+Country: India
+Ability: Batsman
+Fees: 600000
+Player 7
+Name: Dinesh Karthik
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 8
+Name: Abey Kuruvilla
+Country: India
+Ability: Bowler
+Fees: 400000
+Player 9
+Name: Abhimanyu Mithun
+Country: India
+Ability: Bowler
+Fees: 600000
+Player 10
+Name: Ajay Jadeja
+Country: India
+Ability: Bowler
+Fees: 500000
+Player 11
+Name: Ajit Agarkar
+Country: India
+Ability: Bowler
+Fees: 100000
+Player 12
+Name: Ambati Raydu
+Country: India
+Ability: Wicket Keeper
+Fees: 400000
+Player 13
+Name: Ashish Nehra
+Country: India
+Ability: Wicket Keeper
+Fees: 400000
+Player 14
+Name: Adil Rashid
+Country: England
+Ability: All-Rounder
+Fees: 100000
+Player 15
+Name: Andile Phehlukwayo
+Country: South Africa
+Ability: All-Rounder
+Fees: 300000
+Player 16
+Name: Andrew Tye
+Country: Australia
+Ability: All-Rounder
+Fees: 100000
+Player 17
+Name: Ashley Nurse
+Country: West Indies
+Ability: All-Rounder
+Fees: 50000
+Player 18
+Name: Ashton Agar
+Country: Australia
+Ability: All-Rounder
+Fees: 100000

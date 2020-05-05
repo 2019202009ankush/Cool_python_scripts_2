@@ -1,0 +1,91 @@
+Sunrisers Hyderabad
+Player 1
+Name: Vijay Bharadwaj
+Country: India
+Ability: Batsman
+Fees: 100000
+Player 2
+Name: Vijay Yadav
+Country: India
+Ability: Batsman
+Fees: 400000
+Player 3
+Name: Vikram Rathour
+Country: India
+Ability: Batsman
+Fees: 100000
+Player 4
+Name: Vinay Kumar
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 5
+Name: Vinod Kambli
+Country: India
+Ability: Batsman
+Fees: 400000
+Player 6
+Name: Vivek Razdan
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 7
+Name: V. R. V. Singh
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 8
+Name: Vijay Dahiya
+Country: India
+Ability: Bowler
+Fees: 400000
+Player 9
+Name: Virender Sehwag
+Country: India
+Ability: Bowler
+Fees: 400000
+Player 10
+Name: Washington Sundar
+Country: India
+Ability: Bowler
+Fees: 400000
+Player 11
+Name: Yuzvendra Chahal
+Country: India
+Ability: Bowler
+Fees: 500000
+Player 12
+Name: Brendon McCullum
+Country: New Zealand
+Ability: Wicket Keeper
+Fees: 600000
+Player 13
+Name: Kumar Sangakkara
+Country: Sri Lanka
+Ability: Wicket Keeper
+Fees: 700000
+Player 14
+Name: Karim Janat
+Country: Afghanistan
+Ability: All-Rounder
+Fees: 200000
+Player 15
+Name: Keemo Paul
+Country: West Indies
+Ability: All-Rounder
+Fees: 600000
+Player 16
+Name: Kevin O'Brien
+Country: Ireland
+Ability: All-Rounder
+Fees: 800000
+Player 17
+Name: Khawar Ali
+Country: Oman
+Ability: All-Rounder
+Fees: 500000
+Player 18
+Name: Kieron Pollard
+Country: West Indies
+Ability: All-Rounder
+Fees: 400000

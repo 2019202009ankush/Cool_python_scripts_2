@@ -1,0 +1,91 @@
+Delhi Capitals
+Player 1
+Name: Dodda Ganesh
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 2
+Name: Harvinder Singh
+Country: India
+Ability: Batsman
+Fees: 400000
+Player 3
+Name: Hrishikesh Kanitkar
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 4
+Name: Irfan Pathan
+Country: India
+Ability: Batsman
+Fees: 100000
+Player 5
+Name: Ishant Sharma
+Country: India
+Ability: Batsman
+Fees: 400000
+Player 6
+Name: Jasprit Bumrah
+Country: India
+Ability: Batsman
+Fees: 100000
+Player 7
+Name: Javagal Srinath
+Country: India
+Ability: Batsman
+Fees: 100000
+Player 8
+Name: Deep Dasgupta
+Country: India
+Ability: Bowler
+Fees: 500000
+Player 9
+Name: Devang Gandhi
+Country: India
+Ability: Bowler
+Fees: 500000
+Player 10
+Name: Gautam Gambhir
+Country: India
+Ability: Bowler
+Fees: 500000
+Player 11
+Name: Gursharan Singh
+Country: India
+Ability: Bowler
+Fees: 100000
+Player 12
+Name: Hanuma Vihari
+Country: India
+Ability: Wicket Keeper
+Fees: 100000
+Player 13
+Name: Hemang Badani
+Country: India
+Ability: Wicket Keeper
+Fees: 400000
+Player 14
+Name: Ben Stokes
+Country: England
+Ability: All-Rounder
+Fees: 300000
+Player 15
+Name: Calum MacLeod
+Country: Scotland
+Ability: All-Rounder
+Fees: 500000
+Player 16
+Name: Carlos Brathwaite
+Country: West Indies
+Ability: All-Rounder
+Fees: 600000
+Player 17
+Name: Chamu Chibhabha
+Country: Zimbabwe
+Ability: All-Rounder
+Fees: 300000
+Player 18
+Name: Chris Gayle
+Country: West Indies
+Ability: All-Rounder
+Fees: 500000

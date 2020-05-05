@@ -1,0 +1,91 @@
+Royal Challengers Bangalore
+Player 1
+Name: Sarandeep Singh
+Country: India
+Ability: Batsman
+Fees: 600000
+Player 2
+Name: Shikhar Dhawan
+Country: India
+Ability: Batsman
+Fees: 700000
+Player 3
+Name: Subramaniam Badrinath
+Country: India
+Ability: Batsman
+Fees: 600000
+Player 4
+Name: Sunil Joshi
+Country: India
+Ability: Batsman
+Fees: 400000
+Player 5
+Name: Suresh Raina
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 6
+Name: Umesh Yadav
+Country: India
+Ability: Batsman
+Fees: 500000
+Player 7
+Name: Varun Aaron
+Country: India
+Ability: Batsman
+Fees: 600000
+Player 8
+Name: Shardul Thakur
+Country: India
+Ability: Bowler
+Fees: 500000
+Player 9
+Name: S. Sreesanth
+Country: India
+Ability: Bowler
+Fees: 100000
+Player 10
+Name: Subroto Banerjee
+Country: India
+Ability: Bowler
+Fees: 600000
+Player 11
+Name: Venkatapathy Raju
+Country: India
+Ability: Bowler
+Fees: 400000
+Player 12
+Name: AB de Villiers
+Country: South Africa
+Ability: Wicket Keeper
+Fees: 700000
+Player 13
+Name: Adam Gilchrist
+Country: Australia
+Ability: Wicket Keeper
+Fees: 800000
+Player 14
+Name: Isuru Udana
+Country: Sri Lanka
+Ability: All-Rounder
+Fees: 600000
+Player 15
+Name: Joe Root
+Country: England
+Ability: All-Rounder
+Fees: 500000
+Player 16
+Name: JP Duminy
+Country: South Africa
+Ability: All-Rounder
+Fees: 800000
+Player 17
+Name: Kane Williamson
+Country: New Zealand
+Ability: All-Rounder
+Fees: 600000
+Player 18
+Name: Karan KC
+Country: Nepal
+Ability: All-Rounder
+Fees: 200000
